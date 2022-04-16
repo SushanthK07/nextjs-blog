@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          I'm a Full Stack Dev with a year experience on developing MERN stack
+          I'm a Full Stack Dev with a year experience on developing PERN stack
           production ready web application for a startup called <b>needl.ai</b>{" "}
           based in Bengaluru, India
         </p>
